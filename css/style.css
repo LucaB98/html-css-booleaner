@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+
+
+#container {
+    margin: 0 auto;
+    max-width: 1080px;
+}
+
+#patter{
+    background-color: #00b4d8;
+    background-image: url(../img/pattern.png);
+    background-size: 300px;
+}
+
+#logo {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
