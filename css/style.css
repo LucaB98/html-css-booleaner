@@ -30,6 +30,7 @@ img{
 /*main*/
 h1{
     margin-top: 10px;
+    font-size: 38px;
 }
 
 .autore {
@@ -58,9 +59,33 @@ p{
 
 .list{
     margin-left: -20px;
-    margin-top: 20px;
+    
 }
 
 .rows{
     margin-left: -20px;
+}
+
+section{
+    margin-top: 20px;
+}
+
+th{
+    text-align: left;
+    background-color: #00b4d8;
+    color: white;
+}
+
+tr{
+    
+    width: 100px;
+}
+
+td{
+    height: 20px;
+    width: 360px;
+}
+
+.rowsky{
+    background-color: aquamarine;
 }
