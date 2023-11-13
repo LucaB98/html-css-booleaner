@@ -49,6 +49,8 @@ a{
     text-decoration: none;
 }
 
+/*immagini tim*/
+
 p{
     margin-top: 10px;
 }
@@ -56,6 +58,8 @@ p{
 .highlighted {
     background-color: yellow;
 }
+
+/*lista puntata*/
 
 .list{
     margin-left: -20px;
@@ -69,6 +73,8 @@ p{
 section{
     margin-top: 20px;
 }
+
+/*tabella*/
 
 th{
     text-align: left;
@@ -89,6 +95,8 @@ td{
 .rowsky{
     background-color: skyblue;
 }
+
+/*parte finale*/
 
 h3{
     color: rgb(0, 0, 0, 0.5);
