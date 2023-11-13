@@ -9,6 +9,8 @@
     max-width: 1080px;
 }
 
+ /*header*/
+
 #patter{
     background-color: #00b4d8;
     background-image: url(../img/pattern.png);
@@ -19,4 +21,25 @@
     width: 200px;
     height: 100px;
     padding: 10px;
+}
+
+/*main*/
+h1{
+    margin: top 20px;
+}
+
+.autore {
+    font-size: 15px;
+    opacity: 0.5;
+}
+
+
+.date {
+    font-size: 10px;
+    opacity: 0.5;
+}
+
+a{
+    color: #00b4d8;
+    text-decoration: none;
 }
